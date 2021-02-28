@@ -1,1 +1,3 @@
 django-appconf>=0.6.0
+pbr
+pytest-runner
